@@ -9,3 +9,5 @@
     "version" : 1
   }
 }
+let paymentMethod = CashAppPaymentMethod(size: .small)
+paymentMethod.cashTag = "$jack"
