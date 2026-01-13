@@ -26,7 +26,7 @@ Pay Kit is an open source software framework that allows you to accept Cash App 
 * [Getting Help](#getting-help)
 * [License](#license)
 
-# Requirements <a name="requirements"></a>
+# Requirements <a name="requirements"></a>cashapp
 
 The primary `PayKit` framework codebase supports iOS and requires Xcode 12.0 or newer. The `PayKit` framework has a Base SDK version of 13.0.
 
