@@ -11,3 +11,9 @@
 }
 let paymentMethod = CashAppPaymentMethod(size: .small)
 paymentMethod.cashTag = "$jack"
+key>LSApplicationQueriesSchemes</key>
+<array> 
+    <string>cashme</string>
+</array>
+
+
